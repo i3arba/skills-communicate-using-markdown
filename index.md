@@ -11,7 +11,11 @@
 
 
 
-
+```solidity
+function levelUp() public view {
+  level++;
+}
+```
 
 
 
